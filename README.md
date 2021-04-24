@@ -1,21 +1,9 @@
 # Human-Centered Data Science Methods for Diabetes Diagnosis 
 
-Table of contents
-=================
-
-<!--ts-->
-   * [About the repository](#About-the-repository)
-      * [Background](#Background)
-      * [Overview](#Overview)
-      * [Requirements](#Requirements)
-   * [Repository Content](#Repository-Content)
-      * [dataset](#dataset)
-      * [code](#code)
-   
 <!--te-->
 About the repository
 ============
-The code provided in this repository belongs to the work completed for (citation ). The code is provided for reproducibility and application of our system and training framework to external clinical datasets.
+The code provided in this repository belongs to the work completed for the class CDAD-UH 1044Q Human-Centered Data Science at NYU Abu Dhabi. The code is provided for reproducibility and application of the system and training framework to external clinical datasets.
 
 Background
 ----------
