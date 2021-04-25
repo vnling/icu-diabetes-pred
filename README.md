@@ -3,7 +3,7 @@
 <!--te-->
 About the repository
 ============
-The code provided in this repository belongs to the work completed for the class CDAD-UH 1044Q Human-Centered Data Science at NYU Abu Dhabi. The code is provided for reproducibility and application of the system and training framework to external clinical datasets.
+The code provided in this repository is part of the project work I completed for the class CDAD-UH 1044Q Human-Centered Data Science at NYU Abu Dhabi. The code is provided for reproducibility.
 
 Background
 ----------
