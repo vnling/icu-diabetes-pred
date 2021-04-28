@@ -3,7 +3,7 @@
 <!--te-->
 About the repository
 ============
-The code provided in this repository is part of the project work I completed for the class CDAD-UH 1044Q Human-Centered Data Science at NYU Abu Dhabi. The code is provided for reproducibility.
+The code provided in this repository is part of the project work I completed for the class CDAD-UH 1044Q Human-Centered Data Science at NYU Abu Dhabi. The code is provided for reproducibility, and the writeup for the project can be found [here](https://github.com/vnling/icu-diabetes-pred/blob/main/hcds-a4-report.pdf).
 
 Background
 ----------
